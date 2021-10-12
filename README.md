@@ -1,2 +1,3 @@
-# RSA-encode-decode
-Generates RSA keys and allows to encode and decode messages
+# RSA-encode-decode with Python
+Python Script which generates RSA keys and allows to encode and decode messages
+ 
